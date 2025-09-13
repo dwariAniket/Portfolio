@@ -6,7 +6,7 @@ const Portfolio = () => {
 
   // Portfolio data
   const portfolioData = {
-    name: "Aniket",
+    name: "Ani babu",
     title: "Full Stack Web Developer",
     education: "B.Tech in IT",
     about: "A highly motivated and detail-oriented Information Technology graduate with strong analytical skills and a passion for web development. Proficient in the MERN stack, with hands-on experience in building responsive and scalable web applications. Eager to contribute technical expertise and creativity in a dynamic and growth-oriented work environment.",
