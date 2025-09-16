@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.31d6cfe0.css",
-    "main.js": "/Portfolio/static/js/main.f03b81f7.js",
+    "main.js": "/Portfolio/static/js/main.cc18e612.js",
     "static/media/WhatsApp Image 2025-04-23 at 19.05.31.jpeg": "/Portfolio/static/media/WhatsApp Image 2025-04-23 at 19.05.31.4c7c8a9348b7fc476190.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.f03b81f7.js.map": "/Portfolio/static/js/main.f03b81f7.js.map"
+    "main.cc18e612.js.map": "/Portfolio/static/js/main.cc18e612.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.f03b81f7.js"
+    "static/js/main.cc18e612.js"
   ]
 }
